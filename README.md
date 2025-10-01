@@ -27,9 +27,8 @@ Update this variable in the script with your form link:
 python
 Copy code
 FORM_URL = "https://docs.google.com/forms/d/e/XXXXX/viewform"
+
 🔁 Number of Submissions
 How many times to submit the form:
 
-python
-Copy code
 NUM_SUBMISSIONS = 10   # Example: 100 for large runs
